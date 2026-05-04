@@ -6,7 +6,7 @@
 locale                   : "en-US"
 title                    : "Caixue HE"
 title_separator          : "-"
-name                     : &name "Caixue HE"
+name                     : &name "Caixue He"
 description              : &description "MSc Student & Research Assistant. Working on model knowledge editing and AI for mental health."
 url                      : https://caixuehe.github.io
 baseurl                  : ""
@@ -16,7 +16,7 @@ google_scholar_stats_use_cdn : false
 # Site Author
 author:
   avatar           : "profile.png"
-  name             : "Caixue HE"
+  name             : "Caixue He"
   pronoun          : 
   bio              : "MSc @ CNU | Research Assistant @ HKUST(GZ) AI Thrust"
   location         : "Guangzhou, China"
