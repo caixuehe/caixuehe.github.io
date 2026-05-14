@@ -7,5 +7,5 @@ excerpt: 'An adaptive method for long-form knowledge editing in language models 
 date: 2026-07-01
 venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'https://openreview.net/forum?id=W6qfbvysDh'
-citation: 'Bowen Tian, **Caixue He**, Jiemin Wu, Jingying Wang, Wenshuo Chen, Zexi Li, Yutao Yue. (2026). &quot;AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise.&quot; <i>International Conference on Machine Learning (ICML)</i>.'
+citation: 'Bowen Tian, <b>Caixue He</b>, Jiemin Wu, Jingying Wang, Wenshuo Chen, Zexi Li, Yutao Yue. (2026). &quot;AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise.&quot; <i>International Conference on Machine Learning (ICML)</i>.'
 ---
